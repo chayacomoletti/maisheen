@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thieshaiph.amongthe.xyz/sitemap.xml
